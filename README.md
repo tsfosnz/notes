@@ -17,3 +17,11 @@ As an individual programmer, like reactjs the best, especially react native.
 - The project will be easier to maintain
 - Performance is fine
 - Very supportive community with stable version
+
+Anything beyond that espeically keen on how cool the design pattern is, is not practical.
+
+Obviously, Elm is the coolest.
+
+But do you think a team will use it because you are good at it, without thinking how difficult they can find another guys to support the work?
+
+They will never.
