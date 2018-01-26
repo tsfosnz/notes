@@ -1,10 +1,12 @@
 # notes
 
-Basically all about front-end / mobile programming.
+All about front/back/mobile app.
+
+Would rather do one thing good than hashly doing something for profit.
 
 ## Prerequisite
 
-To do front-end programming, these skills are requried:
+To do front app, these skills are requried:
 
 - [x] Reactjs
 - [x] Redux
@@ -13,7 +15,7 @@ To do front-end programming, these skills are requried:
 - [ ] Redux async - redux-observable
 - [ ] Reactive - RxJS
 
-To do mobile programming, these skills are required:
+To do mobile app, these skills are required:
 
 - [x] React Native
 - [x] Redux
