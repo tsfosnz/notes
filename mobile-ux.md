@@ -1,30 +1,38 @@
-## 手机应用的用户体验
+## Mobilx UX
 
-目前，所有的手机操作系统，都在考虑如何提升其用户体验。
+All mobile apps will depended on its UX.
 
-### 设备的事实
+### The Fact of Device
 
-- 手机显示屏，是唯一的主显示屏，来显示应用
-- 手势，是主要的交互方法
-- 手机显示屏的分辨率和大小是最基本的限制，来表达应用
-- 用户体验体现在两个方面：交互、反应、以及外观
-- 交互，包括手、眼
-- 交互，应该有意义
-- 交互，应该首先考虑效率
-- 交互，应该首先简单化
-- 交互，应该保持更低的成本
-- 反应，反应是指交互后的反馈
-- 反应，应该有意义
-- 反应，应该平滑
-- 反应，应该及时
-- 反应，应该直观
-- 外观，包括眼、心理的影响
-- 外观，需要对不同的应用明确
-- 外观，应该焦点明确，干净
-- 外观，应该在不同平台保持一致
-- 外观，应该对辅助使用有价值
+- One screen
+- Limited screen size
+- To use gesture by interaction
+- UX: interaction, feedback, appearance
 
-### 效率
+- Interaction, hand, eye
+- Interaction, should be meaningful
+- Interaction, should be productive
+- Interaction, should be simple
+- Interaction, should be low cost
 
-- 如果手机能够很快，以至于不需要担心应用的任何操作，那么效率也就失去了意义
-- 效率，是工具类软件第一位考虑的问题
+- Feedback, after interaction
+- Feedback, should be meaningful
+- Feedback, should be smoth
+- Feedback, should be reponsive
+- Feedback, should be reactive
+- Feedback, should be straightforward
+
+- Appearance, affected by sight, mind, vision etc
+- Appearance, target on different tools
+- Appearance, should focus
+- Appearance, keep same across platform
+- Appearance, should help using better
+
+### Performance
+
+- Android was quick (Nexus 5+)
+- Old iphone was slow (iPhone 5S-)
+
+### Design
+
+- Should read 2D design books
