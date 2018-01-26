@@ -6,7 +6,7 @@ Would rather do one thing good than hashly doing something for profit.
 
 Tranning skills in the work.
 
-- goal: redident management 
+- case: redident management 
 - apps: mobile, web app
 - service: firebase
 - service: twilio/chat
