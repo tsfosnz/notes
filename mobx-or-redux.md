@@ -23,10 +23,24 @@ Redux 保存所有的状态在一个地方。
 
 每一个新的状态的流程是：
 
+- 一组状态被 map 到一组 Container ，observe 的概念一样
+- 一组状态，总是新的，computed
+- 一组状态中的某个状态，可能是不变的，如 number ，string 等
+
+- 一般组件会 map 一组状态中的某个状态
+- 每个 action 带来的变化是，一组状态每次都是新的对象
+- 一组状态中的某个状态，可能是新的对象
+- 一组状态中的某个状态，可能是不变的对象
+
+- 则 map 某个状态的组件，可能不会发生变化
+- 那个状态必须是 Immutable 的新对象
+- number ，string 等不是 Immutable 对象 ，是按照值比较的
+
 - dispatch 一个 action
 - 这个 action 通过自己的 reducer 来返回新的状态
 - 新的状态被 cast 到目标组件中
 - 注意，action 的名字是全局的，所以每一个都不能相同
+- 新的状态的变化，一组状态
 
 { action, action type, reducer } 是一个组合，可以管理一个 Container
 
