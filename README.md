@@ -10,8 +10,8 @@ To do front-end programming, these skills are requried:
 - [x] Redux
 - [x] Mobx
 - [x] Redux async - thunk
-- [x] Redux async - redux-observable
-- [x] Reactive - RxJS
+- [ ] Redux async - redux-observable
+- [ ] Reactive - RxJS
 
 To do mobile programming, these skills are required:
 
@@ -21,12 +21,12 @@ To do mobile programming, these skills are required:
 - [x] RealmDB
 - [x] Firebase
 - [x] Twilio
-- [x] Animation
+- [ ] Animation
 
 To do back-end service, by using these tools:
 
-- [x] Parse server
-- [x] Mongodb
-- [x] Expressjs
-- [x] Nodejs - forever
+- [ ] Parse server
+- [ ] Mongodb
+- [ ] Expressjs
+- [ ] Nodejs - forever
 
