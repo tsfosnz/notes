@@ -1,27 +1,32 @@
 # notes
 
-Angular2, Reactjs, Circle.js, Elm, Vue ...
+Basically all about front-end / mobile programming.
 
-Which one is the best choice?
+## Prerequisite
 
-- Individual intended to choose the one he/she manage to use well.
-- The cost of maintenance is one primary reason
-- The stablity and realiblity is the second reason, so about community support
-- The cost of hiring a experienced developer is key reason 
-- The project scale is also the reason
+To do front-end programming, these skills are requried:
 
-As an individual programmer, like reactjs the best, especially react native.
+- [x] Reactjs
+- [x] Redux
+- [x] Mobx
+- [x] Redux async - thunk
+- [x] Redux async - redux-observable
+- [x] Reactive - RxJS
 
-- It's productive
-- Scalable (low cost of maintenance)
-- The project will be easier to maintain
-- Performance is fine
-- Very supportive community with stable version
+To do mobile programming, these skills are required:
 
-Anything beyond that espeically keen on how cool the design pattern is, is not practical.
+- [x] React Native
+- [x] Redux
+- [x] Mobx
+- [x] RealmDB
+- [x] Firebase
+- [x] Twilio
+- [x] Animation
 
-Obviously, Elm is the coolest.
+To do back-end service, by using these tools:
 
-But do you think a team will use it because you are good at it, without thinking how difficult they can find another guys to support the work?
+- [x] Parse server
+- [x] Mongodb
+- [x] Expressjs
+- [x] Nodejs - forever
 
-They will never.
