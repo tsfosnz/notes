@@ -6,6 +6,11 @@ Would rather do one thing good than hashly doing something for profit.
 
 Tranning skills in the work.
 
+- goal: redident management 
+- apps: mobile, web app
+- service: firebase
+- service: twilio/chat
+
 ## Prerequisite
 
 To do front app, these skills are requried:
@@ -33,4 +38,10 @@ To do back-end service, by using these tools:
 - [ ] Mongodb
 - [ ] Expressjs
 - [ ] Nodejs - forever
+- [ ] deepstream.io
+
+
+
+
+
 
