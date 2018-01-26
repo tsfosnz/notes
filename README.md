@@ -4,6 +4,8 @@ All about front/back/mobile app.
 
 Would rather do one thing good than hashly doing something for profit.
 
+Tranning skills in the work.
+
 ## Prerequisite
 
 To do front app, these skills are requried:
